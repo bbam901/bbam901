@@ -110,5 +110,5 @@ AI, 모니터링, 자동화를 결합한 실무형 엔지니어로 성장하고 
 
 ## Contact
 
-- GitHub: [github.com/bbam901](https://github.com/bbam901)
+- Notion:(https://app.notion.com/p/Portfolio-3812fa70fca480b5a435e6bb56c34864?source=copy_link))
 - Email: bumku1234@gmail.com
