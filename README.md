@@ -94,8 +94,6 @@ Prometheus, Grafana, Loki를 활용한 인프라 모니터링 및 장애 진단 
 
 [공개 데모에서 챗봇 사용해 보기](https://beomkyu-seo-portfolio.tallsheep5.chatgpt.site/)
 
-[GitHub 소스코드 보기](https://github.com/bbam901/portfolio-qna-chatbot)
-
 ---
 
 ## What I Care About
