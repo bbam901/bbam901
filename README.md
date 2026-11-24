@@ -85,6 +85,15 @@ Prometheus, Grafana, Loki를 활용한 인프라 모니터링 및 장애 진단 
 - 사용자 중심 IT 지원 자동화
 - Helpdesk 업무 경험을 AI 서비스로 구현한 프로젝트
 
+### 포트폴리오 Q&A 챗봇
+
+경력과 프로젝트를 자연어로 찾아볼 수 있도록 개인 포트폴리오에 챗봇을 추가했습니다.
+
+- 질문과 관련된 포트폴리오 자료를 찾아 답변과 출처 링크를 함께 표시합니다.
+- 공개 데모는 로그인 없이 사용할 수 있으며, 자료 검색 모드로 동작합니다.
+
+[공개 데모에서 챗봇 사용해 보기](https://beomkyu-seo-portfolio.tallsheep5.chatgpt.site/)
+
 ---
 
 ## What I Care About
